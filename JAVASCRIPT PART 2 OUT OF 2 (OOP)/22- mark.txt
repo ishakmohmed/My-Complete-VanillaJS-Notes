@@ -1,0 +1,1 @@
+this note marks the end of prototypical inheritance section for this course, so the files before this note are related to prototypical inheritance, and the file after this note starts from "ES6 classes" section!

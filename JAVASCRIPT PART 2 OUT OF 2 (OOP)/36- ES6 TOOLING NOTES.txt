@@ -1,0 +1,11 @@
+ES6 Tooling notes >>>
+
+These tools are only important if you're building browser applications. 
+
+When using modern JS, we need 2 kinds of tools, a TRANSPILER and a BUNDLER. 
+
+
+TRANSPILER is a combination of 2 words, Translator and Compiler. So basically its a tool where we give our modern js code and itll translate it into code that all browsers can understand. Babel is a very popular transpiler for modern javascript.
+
+
+ A module bundler is responsible for combining all our javascript files into a single file, which we call a bundle. The most popular module bundler is the Webpack. So we give all our js files to webpack, webpack will combine them into a single file, it will minify our code by getting rid of all the white spaces and comments, and then it will uglify our code which basically means it will shorten the name of our identifiers, like classes, functions, objects, and so on. So this will reduce the size of the bundle that will be served to the client. 

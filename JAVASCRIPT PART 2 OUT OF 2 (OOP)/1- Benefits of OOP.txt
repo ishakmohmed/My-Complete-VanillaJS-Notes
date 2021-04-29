@@ -1,0 +1,14 @@
+Benefits of OOP >>>
+
+Encapsulation: Reduce complexity + Increase reusability
+Abstraction: Reduce complexity + isolate impact of changes
+Inheritance: Eliminate redundant code
+Polymorphism: Refactor ugly switch/case (and if-else too???) statements
+
+
+
+EXTRA >>>>>>
+what is Object Oriented Programming?
+ 
+~ a programming paradigm centered around objects rather than functions.
+

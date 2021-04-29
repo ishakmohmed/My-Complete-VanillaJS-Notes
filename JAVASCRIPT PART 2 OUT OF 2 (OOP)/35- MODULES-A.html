@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <!-- ISSUE: CURLY BRACES (IN IMPORT STATEMENT) IN ANOTHER FILE (MODULE-B) THROWS "UNCAUGHT SYNTAX ERROR: UNEXPECTED TOKEN (REPLACE PARANTHESES WITH OPEN CURLY BRACE) " -->
+    <script type="module" src="./35- MODULES-B.js"></script> 
+    <!-- ^^ solution: not something you should do in production (theres a proper way to fix this issue using webpack), but just for this demo -->
+  </body>
+</html>

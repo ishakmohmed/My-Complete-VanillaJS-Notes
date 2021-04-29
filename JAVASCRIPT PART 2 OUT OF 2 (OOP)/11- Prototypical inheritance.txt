@@ -1,0 +1,8 @@
+this note marks that the files that appear before this file in this folder are related to the following sections in Mosh JS 2 >>>
+
+- getting started, 
+- objects, 
+- prototypes...
+
+
+The next file (file number 12) starts from Prototypical Inheritance Section.

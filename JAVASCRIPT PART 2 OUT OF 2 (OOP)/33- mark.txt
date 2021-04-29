@@ -1,0 +1,1 @@
+this note marks that starting from the next file, all those files are gonna be related to the final section in mosh javascript 2 OOP, which is ES6 tooling. 
